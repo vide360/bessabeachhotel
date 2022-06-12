@@ -1,7 +1,7 @@
 {
- "background_color": "#FFFFFF",
  "name": "Bessa Beach Hotel",
  "display": "fullscreen",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
